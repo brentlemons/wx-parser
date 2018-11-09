@@ -1,0 +1,24 @@
+{
+  "name": "wx-parser",
+  "version": "1.0.0",
+  "description": "Meteorological data parsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentlemons/wx-parser.git"
+  },
+  "keywords": [
+    "metar",
+    "taf",
+    "parser"
+  ],
+  "author": "Brent Lemons",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brentlemons/wx-parser/issues"
+  },
+  "homepage": "https://github.com/brentlemons/wx-parser#readme"
+}
