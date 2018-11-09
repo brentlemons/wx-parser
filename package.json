@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/brentlemons/wx-parser/issues"
   },
-  "homepage": "https://github.com/brentlemons/wx-parser#readme"
+  "homepage": "https://github.com/brentlemons/wx-parser#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
