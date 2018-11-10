@@ -1,12 +1,20 @@
 'use strict'
 
 const Metar = require('./lib/metar');
+const Taf = require('./lib/taf');
 
-module.exports = metarParser;
+module.exports.parseMetar = parseMetar;
+module.exports.parseTaf = parseTaf;
 
-function metarParser(metarString) {
+function parseMetar(metarString) {
 
     return new Metar(metarString);
+
+}
+
+function parseTaf(tafString) {
+
+    return new Taf(tafString);
 
 }
 
