@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/brentlemons/wx-parser#readme",
   "dependencies": {
-    "moment": "^2.22.2"
+    "moment": "^2.29.2"
   }
 }
